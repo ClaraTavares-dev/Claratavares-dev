@@ -4,8 +4,8 @@
 🌐 Em parceria com o Porto Digital – polo de inovação e tecnologia em Recife/PE.  
 💻 Tenho 19 anos, sou natural de Pernambuco e apaixonada por tecnologia, programação e inovações criativas.
 
-# 🤖 Linguagens e Tecnologias - Atualmente 
-[![Java](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+# 🤖 Linguagens e Tecnologias 
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 # Contatos
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/maria-clara-20a115357)
 ![Gmail](https://skillicons.dev/icons?i=gmail)
