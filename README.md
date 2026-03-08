@@ -20,7 +20,6 @@ Tenho forte foco no ecossistema Back-end, mas também valorizo a versatilidade. 
 
 # Estatística 
 <div>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaraTavares-dev&theme=github_dark&v=1" alt="Linguagens por Repositório" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaraTavares-dev&theme=github_dark&v=1" alt="Linguagens por Commit" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaraTavares-dev&theme=midnight_purple&v=1" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaraTavares-dev&theme=midnight_purple&v=1" />
 </div>
-
